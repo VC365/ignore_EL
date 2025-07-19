@@ -64,7 +64,7 @@ export default function UsersTable() {
                         <TableRow>
                             <TableHead>Name</TableHead>
                             <TableHead>Email</TableHead>
-                            <TableHead>Operation</TableHead>
+                            <TableHead>Process</TableHead>
                         </TableRow>
                     </TableHeader>
                     <TableBody>
